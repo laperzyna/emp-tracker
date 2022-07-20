@@ -1,0 +1,25 @@
+{
+  "name": "emp-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laperzyna/emp-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laperzyna/emp-tracker/issues"
+  },
+  "homepage": "https://github.com/laperzyna/emp-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquire": "^0.4.8",
+    "mysql2": "^2.3.3"
+  }
+}
