@@ -28,6 +28,6 @@ WHEN I choose to update an employee role <br>
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database.
 
 ## Links
-https://github.com/laperzyna/emp-tracker
+https://github.com/laperzyna/emp-tracker <br>
 https://user-images.githubusercontent.com/90733086/184428798-e5471358-6c4a-4dda-ac6b-baba876c3fff.mp4
 
