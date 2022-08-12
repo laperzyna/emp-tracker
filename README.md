@@ -29,5 +29,4 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Links
 https://github.com/laperzyna/emp-tracker <br>
-https://user-images.githubusercontent.com/90733086/184428798-e5471358-6c4a-4dda-ac6b-baba876c3fff.mp4
-
+https://drive.google.com/file/d/10JIRRBStIRceB_mBJ1e_6xFpVcTY_Q-X/view
